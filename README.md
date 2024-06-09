@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🚀 I'm looking for opportunities in **Berlin(DE) or Seoul(KR)**
+ 🚀 I'm looking for opportunities in **Berlin 🇩🇪 or Seoul 🇰🇷**
  
  🔭 I’m currently working on **a macOS menubar management application [here](https://github.com/salesp07/salesp07/issues)** 
  
