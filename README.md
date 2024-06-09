@@ -12,7 +12,7 @@
  
  🚀 I'm looking for opportunities in **Berlin 🇩🇪 or Seoul 🇰🇷**
  
- 🔭 I’m currently working on **a macOS menubar management application [here](https://github.com/salesp07/salesp07/issues)** 
+ 🔭 I’m currently working on **A macOS menubar management application [here](https://github.com/salesp07/salesp07/issues)** 
  
  🌱 I’m currently learning **Flutter,ReactNative,UI/UX design...**
 
