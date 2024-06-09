@@ -14,7 +14,7 @@
  
  🔭 I’m currently working on **a macOS menubar management application [here](https://github.com/salesp07/salesp07/issues)** 
  
- 🌱 I’m currently learning **Flutter,ReactNative...**
+ 🌱 I’m currently learning **Flutter,ReactNative,UI/UX design...**
 
  💬 Ask me about **SwiftUI, React, Springboot... or anything**
 
