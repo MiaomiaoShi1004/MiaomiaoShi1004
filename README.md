@@ -13,11 +13,15 @@
  
  🔭 I’m currently working on **A macOS menubar management application [here](https://github.com/jordanbaird/Ice)** 
  
- 🌱 I’m currently learning **Flutter,ReactNative,UI/UX design...**
+ 🌱 I’m currently learning **Flutter,UI/UX design...**
 
  💬 Ask me about **SwiftUI, React, Springboot... or anything**
 
+ 💡 I believe **Only A few things are designed well, and I want to make my code and designs be part of them**
+
  ⚡ Fun fact **My name is pronouced as "Meowmeow", yeah, like a cat sound**
+
+ 
 
  </div>
  
