@@ -11,7 +11,7 @@
  
  🚀 I'm looking for opportunities in **Berlin 🇩🇪 or Seoul 🇰🇷**
  
- 🔭 I’m currently working on **A macOS menubar management application [here](https://github.com/jordanbaird/Ice)** 
+ 🔭 I’m currently working on **A macOS menubar management application [here](https://github.com/MiaomiaoShi1004/Ice)** 
  
  🌱 I’m currently learning **Flutter,UI/UX design...**
 
