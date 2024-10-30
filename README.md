@@ -9,19 +9,15 @@
 
 <div align="center">
  
- 🚀 I'm looking for opportunities in **Berlin 🇩🇪 or Seoul 🇰🇷**
+ 📍 Berlin🇩🇪/Shanghai🇨🇳/Seoul🇰🇷/
  
  🔭 I’m currently working on **A macOS menubar management application [here](https://github.com/MiaomiaoShi1004/Ice)** 
  
- 🌱 I’m currently learning **Flutter,UI/UX design...**
-
- 💬 Ask me about **SwiftUI, React, Springboot... or anything**
+ 🌱 I’m currently learning **Clean Code...**
 
  💡 I believe **Only A few things are designed well, and I want to make my code and designs be part of them**
 
  ⚡ Fun fact **My name is pronouced as "Meowmeow", yeah, like a cat sound**
-
- 
 
  </div>
  
@@ -32,7 +28,7 @@
   <a href="https://www.linkedin.com/in/miaomiao-s1004/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://github.com/MiaomiaoShi1004/MiaomiaoShi1004/blob/main/Miaomiao%20Shi%20CV.pdf" target="_blank">
+  <a href="" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
